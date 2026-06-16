@@ -1,0 +1,17 @@
+{
+	id: "9cd64dad-55f5-368e-803f-20bf10a5a03a"
+	type: "player"
+	player_name: "KodaMakuin"
+	ranks: {
+		9cd64dad-55f5-368e-803f-20bf10a5a03a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KodaMakuin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

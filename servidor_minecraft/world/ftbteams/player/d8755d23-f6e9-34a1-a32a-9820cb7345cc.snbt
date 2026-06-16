@@ -1,0 +1,17 @@
+{
+	id: "d8755d23-f6e9-34a1-a32a-9820cb7345cc"
+	type: "player"
+	player_name: "Konnorcito"
+	ranks: {
+		d8755d23-f6e9-34a1-a32a-9820cb7345cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Konnorcito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
